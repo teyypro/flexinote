@@ -407,7 +407,7 @@
     border-radius: 100%;
     aspect-ratio: 1;
     border: 0;
-    position: sticky;
+    position: fixed;
     left: 96%;
     bottom: 1%;
     display: flex
