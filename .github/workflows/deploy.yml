@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: ‘/flexinote' 
+          BASE_PATH: '/flexinote' 
         run: |
           npm run build
 
