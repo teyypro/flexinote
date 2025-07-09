@@ -55,4 +55,9 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 0.5rem;
 }
+:global(.editor img) {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
 </style>
